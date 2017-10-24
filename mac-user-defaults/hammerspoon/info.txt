@@ -1,3 +1,0 @@
-put contents of dir ./.hammerspoon to ~/
-
-this emulates total terminal behaviour and better touch tools config for window management
